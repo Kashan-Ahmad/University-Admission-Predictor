@@ -1,0 +1,44 @@
+Algoma University Programs / Program Code
+Business Admini­stration (BBA 4 Year)	JDB
+Business Admini­stration - Accounting (BBA 4 Year)	JDH
+Business Admini­stration - Aviation Management (BBA 4 Year)	JDK
+Business Admini­stration - Human Resources Management (BBA 4 Year)	JDI
+Business Admini­stration - Marketing (BBA 4 Year)	JDJ
+Business Admini­stration - The Business of Esports (BBA 4 Year)	JDL
+Finance and Economics (BA 4 Year)	JDC
+Computer Science (BCOSC 3 Year)	JFE
+Computer Science (BCOSC 4 Year)	JFC
+Psychology (BA 3 Year General)	JBP
+Psychology (BA 4 Year Non-Honours)	JBM
+Community, Economic and Social Development (BA 3 Year)	JJA
+Community, Economic and Social Development (BA 4 Year)	JJB
+Business Admini­stration (BBA 4 Year)	JDA
+Business Admini­stration - Accounting (BBA 4 Year)	JDD
+Business Admini­stration - Economics (BBA 4 Year)	JDE
+Business Admini­stration - Human Resources Management (BBA 4 Year)	JDF
+Business Admini­stration - Marketing (BBA 4 Year)	JDG
+Business Admini­stration - The Business of Esports (BBA 4 Year)	JDM
+Economics (BA 3 Year)	JAG
+Finance and Economics (BA 4 Year)	JBC
+Anishinaabe Studies (BA 3 Year)	JAU
+Anishi­naabemowin (BA 3 Year)	JAB
+English (BA 4 Year)	JBB
+Fine Arts (Visual Arts) (BFA 4 Year)	JCA
+History (BA 4 Year)	JBD
+Law and Justice (BA 4 Year)	JBE
+Music (BA 3 Year)	JAP
+Political Science (BA 4 Year)	JBF
+Social Work (BSW 4 Year)	JHA
+Biology (BSc 4 Year)	JGA
+Computer Science (BCOSC 4 Year)	JEA
+Computer Science - Co-op Stream (BCOSC 4 Year)	JFM
+Computer Science - Computer Games Technology (BCOSC 4 Year)	JFF
+Computer Science - Computer Games Technology/​Creative Arts (BCOSC 4 Year)	JFG
+Computer Science - Mobile Software Engineering (BCOSC 4 Year)	JFH
+Computer Science (BSc 4 Year)	JGB
+Engineering - First Year Chemical (BENG)	JEC
+Engineering - First Year Mechanical (BENG)	JEK
+Engineering - First Year Mining (BENG)	JEM
+Enviro­nmental Science (BSc 4 Year)	JES
+Psychology (BA 4 Year)	JBG
+Psychology (BSc 4 Year)	JGC

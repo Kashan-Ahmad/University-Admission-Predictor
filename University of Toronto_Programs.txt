@@ -1,0 +1,58 @@
+University of Toronto Programs / Program Code
+TrackOne Undeclared Engineering (including PEY Co-op option) - St. George Campus	TEO
+Chemical Engineering (including PEY Co-op option) - St. George Campus	TB
+Civil Engineering (including PEY Co-op option) - St. George Campus	TV
+Computer Engineering (including PEY Co-op option) - St. George Campus	TCS
+Electrical Engineering (including PEY Co-op option) - St. George Campus	TE
+Engineering Science (including PEY Co-op option) - St. George Campus	TK
+Industrial Engineering (including PEY Co-op option) - St. George Campus	TI
+Materials Engineering (including PEY Co-op option) - St. George Campus	TTM
+Mechanical Engineering (including PEY Co-op option) - St. George Campus	TM
+Mineral Engineering (including PEY Co-op option) - St. George Campus	TG
+Archit­ectural Studies (BA) - St. George Campus	TLA
+Visual Studies (BA) - St. George Campus	TLB
+Computer Science - St. George Campus	TAD
+Humanities (Arts) - St. George Campus	TAH
+Life Sciences (including Psychology) - St. George Campus	TLG
+Physical & Mathem­atical Sciences - St. George Campus	TPG
+Rotman Commerce - St. George Campus	TAC
+Social Sciences - St. George Campus	TAX
+Intern­ational Foundation Program - Archit­ecture, Landscape and Design - St. George Campus	TUI
+Intern­ational Foundation Program - Arts & Science - Rotman Commerce - St. George Campus	TAL
+Intern­ational Foundation Program - Arts & Science - Computer Science - St. George Campus	TAO
+Intern­ational Foundation Program - Arts & Science - Humanities - St. George Campus	TAQ
+Intern­ational Foundation Program - Arts & Science - Life Sciences - St. George Campus	TAR
+Intern­ational Foundation Program - Arts & Science - Physical & Mathem­atical Sciences - St. George Campus	TAZ
+Intern­ational Foundation Program - Arts & Science - Social Sciences - St. George Campus	TAY
+Intern­ational Foundation Program - Music - St. George Campus	TZA
+Kinesiology & Physical Education (BKin) - St. George Campus	TPK
+Music - Artist Diploma - St. George Campus	TO
+Music - Music Bac. - St. George Campus	TZ
+Music - Music Bac. Music Education - St. George Campus	TD
+Music - Music Bac. Performance - St. George Campus	TX
+Chemical & Physical Sciences - U of T Mississauga	TMW
+Commerce (including Accounting, Finance, Marketing) - U of T Mississauga	TME
+Commun­ication, Culture, Information & Technology - U of T Mississauga	TMC
+Computer Science, Mathematics & Statistics - U of T Mississauga	TMZ
+Forensic Science - U of T Mississauga	TMK
+Humanities - U of T Mississauga	TMH
+Life Sciences - U of T Mississauga	TML
+Management - U of T Mississauga	TMG
+Psychology - U of T Mississauga	TMP
+Social Sciences - U of T Mississauga	TMS
+Theatre & Drama (Joint program with Sheridan College) (audition required) - U of T Mississauga	TMT
+Visual Studies - U of T Mississauga	TEV
+Social Sciences & Humanities (co-op and regular) - U of T Scarborough	TUD
+French (co-op and regular) U of T Scarborough	TUA
+Journalism (Joint Program with Centennial College) U of T Scarborough	TSJ
+Visual and Performing Arts, Arts Management & Media - U of T Scarborough	TUC
+Management (BBA) (co-op and regular) - U of T Scarborough	TSM
+Management and Intern­ational Business (BBA) (co-op) - U of T Scarborough	TXB
+Intern­ational Development Studies (co-op) - U of T Scarborough	TSD
+Computer Science (co-op and regular) - U of T Scarborough	TXC
+Life Sciences (co-op and regular) - U of T Scarborough	TSL
+Parame­dicine - Joint program with Centennial College - U of T Scarborough	TSI
+Mathematics (co-op and regular) - U of T Scarborough	TXS
+Physical and Enviro­nmental Sciences (co-op and regular) - U of T Scarborough	TSP
+Psycho­logical & Health Sciences (co-op and regular) - U of T Scarborough	TPS
+Statistics (co-op and regular) - U of T Scarborough	TXU

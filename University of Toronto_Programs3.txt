@@ -1,0 +1,28 @@
+University of Toronto Programs / Program Code
+TrackOne Undeclared Engineering (including PEY Co-op option) - St. George Campus	TEO
+Chemical Engineering (including PEY Co-op option) - St. George Campus	TB
+Civil Engineering (including PEY Co-op option) - St. George Campus	TV
+Computer Engineering (including PEY Co-op option) - St. George Campus	TCS
+Electrical Engineering (including PEY Co-op option) - St. George Campus	TE
+Engineering Science (including PEY Co-op option) - St. George Campus	TK
+Industrial Engineering (including PEY Co-op option) - St. George Campus	TI
+Materials Engineering (including PEY Co-op option) - St. George Campus	TTM
+Mechanical Engineering (including PEY Co-op option) - St. George Campus	TM
+Mineral Engineering (including PEY Co-op option) - St. George Campus	TG
+Archit­ectural Studies (BA) - St. George Campus	TLA
+Visual Studies (BA) - St. George Campus	TLB
+Computer Science - St. George Campus	TAD
+Humanities (Arts) - St. George Campus	TAH
+Life Sciences (including Psychology) - St. George Campus	TLG
+Physical & Mathem­atical Sciences - St. George Campus	TPG
+Rotman Commerce - St. George Campus	TAC
+Social Sciences - St. George Campus	TAX
+Intern­ational Foundation Program - Archit­ecture, Landscape and Design - St. George Campus	TUI
+Intern­ational Foundation Program - Arts & Science - Rotman Commerce - St. George Campus	TAL
+Intern­ational Foundation Program - Arts & Science - Computer Science - St. George Campus	TAO
+Intern­ational Foundation Program - Arts & Science - Humanities - St. George Campus	TAQ
+Intern­ational Foundation Program - Arts & Science - Life Sciences - St. George Campus	TAR
+Intern­ational Foundation Program - Arts & Science - Physical & Mathem­atical Sciences - St. George Campus	TAZ
+Intern­ational Foundation Program - Arts & Science - Social Sciences - St. George Campus	TAY
+Intern­ational Foundation Program - Music - St. George Campus	TZA
+Kinesiology & Physical Education (BKin) - St. George Campus	TPK
